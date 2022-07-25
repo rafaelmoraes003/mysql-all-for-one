@@ -15,11 +15,3 @@
 </div>
 
 ###
-
-<h2 align="left">Como utilizar a aplicação</h2>
-
-###
-
-Faça o clone da aplicação usando o comando `git clone`. Após isso, entre na pasta do projeto utilizando o comando `cd mysql-all-for-one` e rode o comando `npm install`. Após a instalação, use o comando `npm start`.
-
-###

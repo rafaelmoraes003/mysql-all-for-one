@@ -1,17 +1,17 @@
-<h1 align="left">Projeto MySQL All For One</h1>
+<h1 align="left">MySQL All For One</h1>
 
 ###
 
-<p align="left">Este projeto tinha como objetivo leitura e manipulação (CRUD) de um banco de dados relacional, onde foram trabalhadas queries com INSERT, SELECT, UPDATE e DELETE, além da filtragem de resultados com o WHERE e operadores booleanos e relacionais. Ademais, foram trabalhadas pesquisas dinâmicas com o LIKE, englobamento de resultados com o IN e BETWEEN e separamento de resultados que incluíam datas.</p>
+<p align="left">This project aimed to read and manipulate (CRUD) a relational database, where queries were worked with INSERT, SELECT, UPDATE and DELETE, in addition to filtering results with WHERE and boolean and relational operators. In addition, dynamic searches were worked with LIKE, aggregation of results with IN and BETWEEN and separation of results that included dates.</p>
 
 ###
 
-<h2 align="left">Tecnologias utilizadas</h2>
+<h2 align="left">Technologies used</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="62" alt="mysql logo"  />
 </div>
 
 ###
